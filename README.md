@@ -18,7 +18,7 @@ A powerful command-line tool for merging multiple files (text, PDFs, or images) 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/file-stacker.git
+git clone https://github.com/makalin/file-stacker.git
 cd file-stacker
 ```
 
